@@ -10,8 +10,8 @@ I ❤️ React and Flutter, and Open Source.
 
     Repositories         : 46
     Issues               : 26
-    Commits              : 674
-    Pull-Requests        : 149
+    Commits              : 676
+    Pull-Requests        : 151
     Total Stars Earned   : 4
     Total Contributed To : 1
 
@@ -21,9 +21,9 @@ I ❤️ React and Flutter, and Open Source.
 
 <!-- most-used-languages start -->
 
-    TypeScript 52.52% | ████████████████████
+    TypeScript 52.50% | ████████████████████
     JavaScript 12.46% | █████
-    Dart        9.02% | ███
+    Dart        9.05% | ███
     HTML        6.79% | ███
     CSS         6.35% | ██
 
