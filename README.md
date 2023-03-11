@@ -21,10 +21,10 @@ I ❤️ React and Flutter, and Open Source.
 
 <!-- most-used-languages start -->
 
-    TypeScript 42.84% | ████████████████████
-    Java       13.94% | ███████
-    Dart       13.35% | ██████
-    HTML        9.66% | █████
-    CSS         5.48% | ███
+    TypeScript 42.15% | ████████████████████
+    Java       14.11% | ███████
+    Dart       13.51% | ██████
+    HTML        9.77% | █████
+    CSS         5.54% | ███
 
 <!-- most-used-languages end -->
