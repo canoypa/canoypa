@@ -13,9 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: canoypa/readme-stats-action@v0.1.0
+      - uses: canoypa/readme-stats-action@v0.2.0
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
+          template: "template.md"
       - uses: EndBug/add-and-commit@v9
         with:
           message: Update README Stats
