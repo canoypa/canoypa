@@ -8,7 +8,7 @@ I ❤️ React and Flutter, and Open Source.
 
     Repositories         : 52
     Issues               : 39
-    Commits              : 796
+    Commits              : 799
     Pull-Requests        : 158
     Total Stars Earned   : 4
     Total Contributed To : 0
