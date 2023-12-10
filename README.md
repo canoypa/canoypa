@@ -1,22 +1,20 @@
 ## Hello World 👋
 
-I am a developer of web apps and other in Japan.
-
-I ❤️ React and Flutter, and Open Source.
+I'm a Japanese software developer, and I love cats 😺 and tea 🫖.
 
 ### Contributions
 
-    Repositories         : 43
-    Issues               : 57
-    Commits              : 936
-    Pull-Requests        : 141
-    Total Stars Earned   : 4
-    Total Contributed To : 0
+    Repositories   : 142
+    Issues         : 168
+    Commits        : 6248
+    Pull-Requests  : 486
+    Stars Earned   : 4
+    Contributed To : 0
 
 ### Most Used Languages
 
-    TypeScript 40.62% | ████████████████████
-    Java       13.98% | ██████▌
-    HTML       10.70% | █████
-    JavaScript 10.16% | █████
-    Dart        9.35% | ████▌
+    TypeScript 40.37% | ████████████████████
+    Java       12.63% | ██████
+    HTML       10.23% | █████
+    Dart        9.48% | ████▌
+    JavaScript  9.39% | ████▌
