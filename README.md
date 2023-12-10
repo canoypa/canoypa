@@ -4,17 +4,17 @@ I'm a Japanese software developer, and I love cats 😺 and tea 🫖.
 
 ### Contributions
 
-    Repositories         : 43
-    Issues               : 57
-    Commits              : 940
-    Pull-Requests        : 141
-    Total Stars Earned   : 4
-    Total Contributed To : 0
+    Repositories   : 142
+    Issues         : 168
+    Commits        : 6248
+    Pull-Requests  : 486
+    Stars Earned   : 4
+    Contributed To : 0
 
 ### Most Used Languages
 
-    TypeScript 40.68% | ████████████████████
-    Java       13.97% | ██████▌
-    HTML       10.69% | █████
-    JavaScript 10.15% | ████▌
-    Dart        9.34% | ████▌
+    TypeScript 40.37% | ████████████████████
+    Java       12.63% | ██████
+    HTML       10.23% | █████
+    Dart        9.48% | ████▌
+    JavaScript  9.39% | ████▌
