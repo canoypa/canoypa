@@ -1,8 +1,6 @@
 ## Hello World 👋
 
-I am a developer of web apps and other in Japan.
-
-I ❤️ React and Flutter, and Open Source.
+I'm a Japanese software developer, and I love cats 😺 and tea 🫖.
 
 ### Contributions
 
