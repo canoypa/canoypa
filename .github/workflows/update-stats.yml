@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: canoypa/readme-stats-action@v0.2.2
+      - uses: canoypa/readme-stats-action@main
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           template: "template.md"
