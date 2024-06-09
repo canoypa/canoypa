@@ -6,15 +6,15 @@ I'm a Japanese software developer, and I love cats 😺 and tea 🫖.
 
     Repositories   : 160
     Issues         : 328
-    Commits        : 6970
-    Pull-Requests  : 584
+    Commits        : 6985
+    Pull-Requests  : 585
     Stars Earned   : 4
     Contributed To : 2
 
 ### Most Used Languages
 
-    TypeScript 33.19% | ████████████████████
-    Ruby       15.01% | █████████
-    Java       10.65% | ██████
-    Dart        9.45% | █████▌
-    HTML        8.97% | █████
+    TypeScript 33.34% | ████████████████████
+    Ruby       14.98% | ████████▌
+    Java       10.63% | ██████
+    Dart        9.43% | █████▌
+    HTML        8.95% | █████
