@@ -6,10 +6,10 @@ I'm a Japanese software developer, and I love cats 😺 and tea 🫖.
 
     Repositories   : 160
     Issues         : 328
-    Commits        : 7005
-    Pull-Requests  : 589
+    Commits        : 7044
+    Pull-Requests  : 592
     Stars Earned   : 4
-    Contributed To : 3
+    Contributed To : 4
 
 ### Most Used Languages
 
