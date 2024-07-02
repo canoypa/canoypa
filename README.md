@@ -5,11 +5,11 @@ I'm a Japanese software developer, and I love cats 😺 and tea 🫖.
 ### Contributions
 
     Repositories   : 161
-    Issues         : 343
+    Issues         : 344
     Commits        : 7078
-    Pull-Requests  : 604
+    Pull-Requests  : 605
     Stars Earned   : 4
-    Contributed To : 4
+    Contributed To : 5
 
 ### Most Used Languages
 
