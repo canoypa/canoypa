@@ -8,7 +8,7 @@ I'm a Japanese software developer, and I love cats 😺 and tea 🫖.
     Issues         : 357
     Commits        : 7133
     Pull-Requests  : 621
-    Stars Earned   : 4
+    Stars Earned   : 5
     Contributed To : 6
 
 ### Most Used Languages
