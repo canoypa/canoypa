@@ -5,9 +5,9 @@ I'm a Japanese software developer, and I love cats 😺 and tea 🫖.
 ### Contributions
 
     Repositories   : 164
-    Issues         : 449
+    Issues         : 453
     Commits        : 7633
-    Pull-Requests  : 701
+    Pull-Requests  : 707
     Stars Earned   : 5
     Contributed To : 9
 
