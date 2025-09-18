@@ -7,7 +7,7 @@ I'm a Japanese software developer, and I love cats 😺 and tea 🫖.
     Repositories   : 173
     Issues         : 739
     Commits        : 10271
-    Pull-Requests  : 1056
+    Pull-Requests  : 1057
     Stars Earned   : 5
     Contributed To : 0
 
