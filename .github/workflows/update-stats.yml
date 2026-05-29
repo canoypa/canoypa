@@ -16,7 +16,6 @@ jobs:
       - uses: canoypa/readme-stats-action@631b2d8be60beb5fe66abb95106ba0b71ba39586 # v0.3.1
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
-          template: "template.md"
       - uses: EndBug/add-and-commit@290ea2c423ad77ca9c62ae0f5b224379612c0321 # v10.0.0
         with:
           message: Update README Stats
